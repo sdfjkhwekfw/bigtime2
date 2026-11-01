@@ -1,0 +1,9 @@
+Package: com.xiaoyu.bigtime2
+Name: 玻璃时钟 (BigTime2)
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Description: 锁屏玻璃时钟
+Maintainer: 小鱼 <xiaoyu@example.com>
+Author: 小鱼 <xiaoyu@example.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000) | ellekit (>= 0.1), preferenceloader
